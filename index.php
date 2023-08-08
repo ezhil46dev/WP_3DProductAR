@@ -1,5 +1,5 @@
 <?php
 
-echo 'hello world';
+echo 'Emote3D plugin Dev';
 
 ?>
