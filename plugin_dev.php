@@ -8,7 +8,7 @@ Author URI: https://emote3d.com/
 */
 
 if(!defined('ABSPATH')){
-    echo 'What are you doing here';
+    echo 'What are you doing here, Dont come again';
     exit;
 }
 
